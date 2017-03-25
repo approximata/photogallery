@@ -1,1 +1,1 @@
-# assignment-create-bodormate
+#Simple photo gallery with react
