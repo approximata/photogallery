@@ -1,1 +1,1 @@
-#Simple photo gallery with react
+## Simple photo gallery with react
